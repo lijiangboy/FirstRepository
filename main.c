@@ -1,5 +1,6 @@
 #include "stdio.h"
 
 void main(){
-printf("");
+int i=10;
+printf("%d\n",i);
 }
